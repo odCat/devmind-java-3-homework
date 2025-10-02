@@ -1,4 +1,4 @@
-package homework.chapter3;
+package chapter3.homework1;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

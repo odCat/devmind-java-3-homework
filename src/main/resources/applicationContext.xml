@@ -2,9 +2,9 @@
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
-    <bean id="myDog" class="homework.chapter3.Dog">
+    <bean id="myDog" class="chapter3.homework1.Dog">
         <constructor-arg value="Azorel"/>
     </bean>
-    <bean id="myCat" class="homework.chapter3.Cat"/>
-    <bean id="myMouse" class="homework.chapter3.Mouse"/>
+    <bean id="myCat" class="chapter3.homework1.Cat"/>
+    <bean id="myMouse" class="chapter3.homework1.Mouse"/>
 </beans>
