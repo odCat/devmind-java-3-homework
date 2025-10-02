@@ -7,7 +7,7 @@
     <bean id="myDog" class="chapter3.homework1.Dog">
         <constructor-arg value="Azorel"/>
     </bean>
-    
+
     <bean id="myCat" class="chapter3.homework1.Cat"/>
     <bean id="myMouse" class="chapter3.homework1.Mouse"/>
 </beans>
